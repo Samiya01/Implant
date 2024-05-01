@@ -1,3 +1,5 @@
+# Android Mobile application which tracks the process of ADIP CI scheme and guide the user about scheme with integrated voice response system. 
+Tech Used: Java, XML, Firebase, Android studio
 # Problem Statement
 Background: Application to keep track of beneficiaries under ADIP CI Scheme of MSJ & ESummary: The ADIP CI Scheme of MSJ & E has a huge number of beneficiaries presently i.e. around 3,900 and looks forward to many more in future. Hence, keeping track with the beneficiary’s progress needs software developed which can connect patients and implementing agencies regularly. An Interactive voice response system is needed for regularly monitoring and generating post-operative rehabilitation status of ADIP CI beneficiaries. Objective: Interactive voice response system is needed for regularly monitoring and generating post-operative rehabilitation status of ADIP CI beneficiaries. Mobile Application with voice response system
 
