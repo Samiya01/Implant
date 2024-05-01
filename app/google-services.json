@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457339211384",
+    "project_id": "implant-575f0",
+    "storage_bucket": "implant-575f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457339211384:android:2de32cdd2967dea5d0a78d",
+        "android_client_info": {
+          "package_name": "com.example.implant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457339211384-arevddr62u8kav2i7un8h7omhq2kg7vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdSdzXj-wgaAZjkM2L4pmDeI4k-XqztM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457339211384-arevddr62u8kav2i7un8h7omhq2kg7vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

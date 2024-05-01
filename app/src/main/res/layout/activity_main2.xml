@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFEF2"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="GOVERNMENT OF INDIA"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="MINISTRY OF SOCIAL JUSTICE \nAND EMPOWERMENT"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="77dp"
+        android:layout_height="129dp"
+        android:layout_gravity="center"
+        android:src="@drawable/emblem" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="DEPARTMENT OF \n EMPOWERMENT OF PERSONS \n WITH DISABILITIES \n (DIVYANGJAN)"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="If you are an ADIP Scheme \n holder then please login"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:background="@drawable/button"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="If you have not yet registered in the \nADIP Scheme, Register now"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        />
+    <Button
+        android:id="@+id/register"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:background="@drawable/button"
+        android:textColor="@color/black"
+        />
+
+</LinearLayout>

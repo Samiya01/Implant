@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_about_aids.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_hearing_test.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_howtouse.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_precaution.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_random.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/activity_video_call.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/app_bar_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/content_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/my_layout.xml" value="0.1" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/nav_header_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/row_item.xml" value="0.2" />
+        <entry key="..\:/Users/patil/Desktop/SIH Project/implant/app/src/main/res/layout/ui_activity.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
